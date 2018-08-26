@@ -1,0 +1,27 @@
+.row {
+width: 100%;
+border: 5px;
+border-color: black;
+}
+
+.column {
+  float: left;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+.column-75 {
+  width: 75%;
+  background-color: lightblue;
+}
+
+.column-25 {
+  width: 25%;
+  background-color: lightgreen;
+}
+
+.column-30 {
+  width: 30%;
+  background-color: yellow;
+  margin-right: 25px;
+}
